@@ -1,0 +1,178 @@
+body{
+    margin:0;
+    border:0;
+    padding:0;
+}
+
+.top-banner{
+    height:48px;
+    width:auto;
+    background-color: rgb(37, 37, 97);
+    padding-left: 180px;
+    padding-right: 180px;
+}
+
+.vet-assistance{
+    border-style: none;
+    padding: 13px;
+    background-color: rgb(184, 66, 66);
+    color: white;
+    font-size:18px ;
+    font-family:Montserrat, sans-serif ;
+    font-weight: 600;
+}
+
+.top-donate-btn{
+    border-style: none;
+    padding:10px;
+    color:white;
+    background-color: rgb(92, 171, 255);
+    font-family: Montserrat, sans-serif;
+    font-size: 18px;
+    font-weight: 900;
+    float:right;
+}
+
+.left-side{
+    padding-left: 165px;
+    padding-top: 5px;
+}
+
+.lifeline-for-vets{
+    padding-bottom: 25px;
+}
+
+.btm-banner{
+    height:67px;
+    width:auto;
+    padding-left: 240px;
+    background-color: rgb(37, 37, 97);
+}
+
+.btm-banner-nav a{
+    padding-left: 30px;
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+}
+
+.blog-title{
+    background-color: rgb(236, 236, 236);
+    height:237px;
+    width:auto;
+}
+
+.blog-title h1{
+    margin:0;
+    border:0;
+    padding-top:30px;
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: 36px;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+.blog-title p{
+    text-align: center;
+    font-size: 20px;
+    font-family: "Lato",sans-serif;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+.blog-title p a{
+    padding-bottom: 10px;
+    text-decoration: none;
+    color: rgb(184, 66, 66);
+}
+
+article{
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right:500px;
+}
+
+article p{
+    font-size:20px ;
+    font-family: "Lato",sans-serif;
+    line-height: 1.8;
+}
+
+article h2{
+    font-family: "Lato",sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 1.8;
+}
+
+article h3{
+    font-size: 24px;
+    font-family: "Montserrat",sans-serif;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+ol li{
+    font-family: "Lato",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8;
+}
+
+ul li{
+    font-family: "Lato",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8;
+}
+
+ol li a{
+    text-decoration: none;
+    color:#b31942;
+}
+
+.pic-2-caption{
+    padding-left: 160px;
+    font-size: 13px;
+    line-height: 1.5;
+    font-family: "Lato",sans-serif;
+}
+
+p a{
+    text-decoration: none;
+    color:#b31942;
+}
+
+article p i{
+    font-size:20px ;
+    font-family: "Lato",sans-serif;
+    line-height: 1.8;
+}
+
+footer{
+    height:115px;
+    width:auto;
+    background-color:#b31942;
+}
+
+footer .top{
+    padding-top: 10px;
+    font-family: "Lato",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8;
+    color:white;
+    text-align: center;
+}
+
+footer .bottom{
+    padding-bottom: 20px;
+    font-family: "Lato",sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.8;
+    color:white;
+    text-align: center;
+}
